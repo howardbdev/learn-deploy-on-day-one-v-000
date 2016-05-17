@@ -132,6 +132,14 @@ a:visited {
   display: block;
   height: 400px;
 }
+
+#howard-devennish-cover {
+    background-image: url("../assets/img/howard-devennish-cover.jpg")
+}
+#howard-devennish-card {
+    background-image: url("../assets/img/howard-devennish.jpg");
+}
+
 #juan-rivera-cover {
     background-image: url("../assets/img/juan-rivera-cover.jpg")
 }
